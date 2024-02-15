@@ -1,0 +1,32 @@
+body{
+  font-family: cursive;
+  text-align: center;
+}
+#bot-choice{
+  width: 240px;
+  height: 240px;
+  background-color: cyan;
+  margin-top: 10px;
+}
+#your-choice{
+  width: 240px;
+  height: 240px;
+  background-color: yellow;
+  margin-top: 10px;  
+}
+#choices{
+  width: 240px;
+  height: 80px;
+  background-color: green;
+  margin-top: 10px;
+  margin: 0 auto;
+}
+#choices img{
+  width: 80px;
+  height: 80px;
+}
+#choices img:hover{
+  background-color: blue;
+  cursor: pointer;
+  
+}
