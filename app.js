@@ -46,7 +46,8 @@ function selectChoice(){
     yourScore += 1;
     botScore += 1;
   }
-  //document.getElementById('your-score').innerHTML = yourScore;
+  //changed
+  document.getElementById('your-score').innerHTML = yourScore;
   document.getElementById('bot-score').innerHTML = botScore;
 
 }
