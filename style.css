@@ -27,7 +27,7 @@ body{
   height: 80px;
 }
 #choices img:hover{
-  background-color: blue;
+  background-color: rgb(18, 18, 176);
   cursor: pointer;
   
 }
